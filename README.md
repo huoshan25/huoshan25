@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I an huoshan&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=huoshan25&theme=transparent&hide_border=true&area=true" />
 
